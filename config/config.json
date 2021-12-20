@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xef312eb6bacbd1e2829f0c4e191b06d308428193",
+  "SCAN_LINK": "https://polygonscan.com/token/0xef312eb6bacbd1e2829f0c4e191b06d308428193",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "GoRealla",
+  "SYMBOL": "GRU",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10.0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/gorealla",
+  "SHOW_BACKGROUND": false
+}
